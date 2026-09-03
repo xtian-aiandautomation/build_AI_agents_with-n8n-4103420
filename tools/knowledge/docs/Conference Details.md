@@ -3,8 +3,8 @@
 ## 1. Conference Overview
 
 - **Event Name:** Tech Innovate 2026
-- **Date:** June 15–17, 2026
-- **Location:** San Francisco Convention Center, 123 Innovation Drive, San Francisco, CA 94103
+- **Date:** December 15–17, 2026
+- **Location:** General Trias Sports Oval, Bella Vista Subdivision along Arnaldo Highway, Barangay Santiago, General Trias, Cavite, 4107
 - **Description:** A 3-day conference focused on emerging technologies, featuring keynote speakers, workshops, and networking opportunities.
 - **Target Audience:** Tech professionals, developers, entrepreneurs, and students.
 - **Official Website:** [techinnovate2026.com](https://techinnovate2026.com)
@@ -15,17 +15,17 @@
 
 **Ticket Types:**
 
-* **General Admission:** $499
-* **Student Pass:** $199 *(requires valid student ID)*
-* **VIP Pass:** $999 *(includes exclusive sessions and dinner with speakers)*
+* **General Admission:** ₱499
+* **Student Pass:** ₱199 *(requires valid student ID)*
+* **VIP Pass:** ₱999 *(includes exclusive sessions and dinner with speakers)*
 
-- **Registration Deadline:** May 31, 2026
+- **Registration Deadline:** December 31, 2026
 - **How to Register:** Visit [techinnovate2026.com/register](https://techinnovate2026.com/register) or use the mobile app **Tech Innovate 2026**.
 
 **Cancellation Policy:**
-- Full refund if canceled by **May 15, 2026**
-- 50% refund if canceled by **June 1, 2026**
-- No refunds after **June 1, 2026**
+- Full refund if canceled by **November 15, 2026**
+- 50% refund if canceled by **November 30, 2026**
+- No refunds after **December 1, 2026**
 
 **Contact for Issues:** [registration@techinnovate2026.com](mailto:registration@techinnovate2026.com) or call **(415) 555-0123**
 
@@ -33,18 +33,18 @@
 
 ## 3. Schedule
 
-### **Day 1 – June 15**
+### **Day 1 – December 15**
 
 * **9:00 AM – 10:00 AM:** Opening Keynote *(Main Hall, Hall A)*
 * **11:00 AM – 1:00 PM:** AI Innovations Workshop *(Room A, Hall A)*
 * **6:00 PM – 8:00 PM:** Networking Reception *(Grand Lobby)*
 
-### **Day 2 – June 16**
+### **Day 2 – December 16**
 
 * **10:00 AM – 12:00 PM:** Panel Discussion: *Future of Tech* *(Main Hall, Hall A)*
 * **2:00 PM – 4:00 PM:** Coding Bootcamp *(Room B, Hall B)*
 
-### **Day 3 – June 17**
+### **Day 3 – December 17**
 
 * **9:00 AM – 11:00 AM:** Closing Keynote *(Main Hall, Hall A)*
 * **12:00 PM:** Conference Ends
@@ -55,15 +55,15 @@
 
 ## 4. Venue Information
 
-**Address:** San Francisco Convention Center, 123 Innovation Drive, San Francisco, CA 94103
+**Address:** Bella Vista Subdivision along Arnaldo Highway, Barangay Santiago, General Trias, Cavite, 4107
 
 **Parking:** On-site parking available for **$20/day**; public lots nearby.
 
-**Public Transport:** Accessible via **BART (Powell Street Station)** and **Muni bus lines 5, 9, and 21**.
+**Public Transport:** Accessible via **ZAYDEN'S E-BIKES (All over General Trias)** and **SANDRA BUS LINES 5, 9, and 21**.
 
 **Accessibility:** Wheelchair ramps, elevators, and ASL interpreters available upon request.
 
-Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026.com) by **June 1, 2026**.
+Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026.com) by **December 1, 2026**.
 
 ---
 
@@ -71,13 +71,13 @@ Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026
 
 **Keynote Speakers:**
 
-* *Jane Smith* – AI Ethics Expert
-* *Mark Johnson* – CEO, FutureTech
+* *Senen Trumata Jr.* – AI Ethics Expert
+* *Master Comoda* – CEO, FutureTech
 
 **Popular Workshops:**
 
-* *AI Innovations* — Led by Dr. Jane Smith, **June 15, 11:00 AM**, Room A, Hall A
-* *Coding Bootcamp* — Led by Sarah Lee, **June 16, 2:00 PM**, Room B, Hall B
+* *AI Innovations* — Led by Dr. Jane Smith, **December 15, 11:00 AM**, Room A, Hall A
+* *Coding Bootcamp* — Led by Sarah Lee, **December 16, 2:00 PM**, Room B, Hall B
 
 **Session Sign-Up:** Pre-registration required via the mobile app or website.
 
@@ -87,7 +87,7 @@ Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026
 
 ### **Overview**
 
-The San Francisco Convention Center features two exhibition halls (**Hall A** and **Hall B**) hosting keynotes, workshops, and exhibitor booths.
+The General Trias Sports Oval features two exhibition halls (**Hall A** and **Hall B**) hosting keynotes, workshops, and exhibitor booths.
 
 ### **Hall A**
 
@@ -116,9 +116,9 @@ The San Francisco Convention Center features two exhibition halls (**Hall A** an
 
 | Booth Type                  | Minimum Size | Price per sqft | Registration Fee | Notes                                   |
 | --------------------------- | ------------ | -------------- | ---------------- | --------------------------------------- |
-| **1 Side Open (Inline)**    | 100 sqft     | **$55**        | **$800**         | Standard placement; steady traffic.     |
-| **2 Side Open (Corner)**    | 200 sqft     | **$60**        | **$1,000**       | Extra exposure from two aisles.         |
-| **3 Side Open (Peninsula)** | 400 sqft     | **$70**        | **$1,200**       | Premium visibility; ideal for branding. |
+| **1 Side Open (Inline)**    | 100 sqft     | **₱55**        | **₱800**         | Standard placement; steady traffic.     |
+| **2 Side Open (Corner)**    | 200 sqft     | **₱60**        | **₱1,000**       | Extra exposure from two aisles.         |
+| **3 Side Open (Peninsula)** | 400 sqft     | **₱70**        | **₱1,200**       | Premium visibility; ideal for branding. |
 
 ### All Booth Types Include:
 * Logo on event website, app, and signage
