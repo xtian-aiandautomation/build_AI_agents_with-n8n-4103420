@@ -57,7 +57,7 @@
 
 **Address:** Bella Vista Subdivision along Arnaldo Highway, Barangay Santiago, General Trias, Cavite, 4107
 
-**Parking:** On-site parking available for **$20/day**; public lots nearby.
+**Parking:** On-site parking available for **₱20/day**; public lots nearby.
 
 **Public Transport:** Accessible via **ZAYDEN'S E-BIKES (All over General Trias)** and **SANDRA BUS LINES 5, 9, and 21**.
 
